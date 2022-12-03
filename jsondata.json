@@ -1,0 +1,27 @@
+{
+    "name": "Miral",
+    "contactInfo": {
+        "email": "mbhalani6166@conestogac.on.ca",
+        "phone": "5242221212",
+    },
+    "introduction": "I am a student in Conestoga kitchner downtown campus and doing Repoting systems and database development program.",
+    "qualifications": [
+        "BE CE",
+        "Certificate course in RDB"
+    ],
+    "Skills": [
+        "Web design",
+        "JAVA",
+        "SQL"
+    ],
+    "workExperience": [
+        {
+            "companyName": "Prol systems",
+            "experience": "5 years"
+        },
+        {
+            "companyName": "ed systems",
+            "experience": "3 years"
+        }
+    ]
+}
