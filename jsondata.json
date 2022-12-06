@@ -5,15 +5,17 @@
         "email": "mbhalani6166@conestogac.on.ca",
         "phone": "5242221212"
     },
-    "introduction": "I am a student in Conestoga kitchner downtown campus and doing Repoting systems and database development program.",
+    "introduction": "I am a student in Conestoga kitchner downtown campus and doing Repoting systems and database development program. Added introduction",
     "qualifications": [
         "BE CE",
-        "Certificate course in RDB"
+        "Certificate course in RDB",
+        "New qualification"
     ],
     "Skills": [
         "Web design",
         "JAVA",
-        "SQL"
+        "New skill 1",
+        "New skill 2"
     ],
     "workExperience": [
         {
@@ -21,8 +23,12 @@
             "experience": "5 years"
         },
         {
-            "companyName": "ed systems",
-            "experience": "3 years"
+            "companyName": "LL NEW COMPANY 1",
+            "experience": "4 years"
+        },
+        {
+            "companyName": "LL NEW COMPANY 2",
+            "experience": "4 years"
         }
     ]
 }
